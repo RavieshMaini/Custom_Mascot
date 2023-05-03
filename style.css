@@ -1,0 +1,6 @@
+body{
+    height: 100vh;
+    background-color: rgba(100, 148, 237, 0.812);
+    display: grid;
+    justify-content: center;
+}
